@@ -48,4 +48,4 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/PedroHenriquedeLima)
+Desenvolvido com ❤️ por [Pedro Henrique](https://github.com/PedroHenriquedeLima)

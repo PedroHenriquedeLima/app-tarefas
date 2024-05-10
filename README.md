@@ -1,4 +1,4 @@
-Claro! Aqui está o README.md atualizado:
+
 
 # App Tarefas 📝
 
